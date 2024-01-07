@@ -1,0 +1,21 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/axiom.pw.toml"
+hash = "e3def660ba63335178116e8bfbfe990d0716c9155671ce583496ca19eb5ea19e"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "8ad92515a4d70ba75d0affea314f19274faf06344c835a1b59d21724d011fb34"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "b61b0ccdc8328d637c0f57cbb25258491b94ae03c89c4194ad6ca8b86579dd28"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "da27cd650e95b1a58eb5d55f6facf39295bb550b8c250ac6b4bf5048109fa552"
+metafile = true
